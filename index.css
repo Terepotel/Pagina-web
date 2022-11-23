@@ -12,6 +12,7 @@ body{
 	justify-content: space-between;
 	align-items: center;
 	padding: 20px;
+	font-size: 1em;
 }
 /* buscar para sacar decoracion al link*/
 
@@ -31,6 +32,15 @@ ul{
 }
 li{
 	padding: 15px;
+}
+
+.top-bar a:link{
+	text-decoration: none;
+	color: #000000;
+}
+
+.top-bar a:visited{
+	color: #000000;
 }
 
 .heroPage{
