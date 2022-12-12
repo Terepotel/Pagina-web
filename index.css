@@ -178,3 +178,19 @@ footer{
 .destinations__title{
 	font-size: 25px;
 }
+
+.card{
+	width: 200px;
+	text-align: justify;
+	border-radius: 24px;
+	background-color: #00b7ff7b;
+	padding: 0.5em;
+
+
+}
+.cardImage{
+	box-sizing: content-box;
+	width: 100%;
+	border-radius: 23px;
+}
+
