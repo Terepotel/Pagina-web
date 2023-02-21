@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sulphur+Point&display=swap');
 
 
-body{
+*{
 	font-family: Sulphur Point;
 }
 
@@ -24,22 +24,22 @@ body{
 .logo{
 	width: 80px;
 }
-ul{
+.menu{
 	display: inline-flex;
 	list-style: none;
 	flex-direction:row;
 	justify-content: space-between;
 }
-li{
+.topbar__link{
 	padding: 15px;
 }
 
-.top-bar a:link{
+.topbar__link:link{
 	text-decoration: none;
 	color: #000000;
 }
 
-.top-bar a:visited{
+.topbar__link:visited{
 	color: #000000;
 }
 
