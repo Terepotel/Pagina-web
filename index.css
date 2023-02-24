@@ -185,6 +185,8 @@ li{
 }
 .destinations__recommended{
 	background-color: #00b7ff7b;
+	box-sizing: border-box;
+
 }
 
 .recommended_subtitle{
@@ -198,6 +200,8 @@ li{
 	display: flex;
 	justify-content: center;
 	gap: 15px;
+	padding-bottom: 30px;
+
 }
 .card{
 	width: 200px;
